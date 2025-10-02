@@ -8,3 +8,6 @@ this file is now edited in remote
 this is updated 2nd time now
 
 updated from branch b1
+
+editing to raise conflict in b2
+editing to raise conflict in b3

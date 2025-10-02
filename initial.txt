@@ -5,4 +5,6 @@ for i in range (0,21):
 print(total)
 
 this file is now edited in remote
-this is updated 2nd time noww
+this is updated 2nd time now
+
+updated from branch b1

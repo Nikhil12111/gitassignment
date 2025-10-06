@@ -2,3 +2,4 @@ for i in range(65,91):
     print(chr(i),end=" ")
 
 updated from b3 branch
+modified for 7th question

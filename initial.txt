@@ -15,3 +15,5 @@ editing to raise conflict in b3,
 updated from branch b1
 modified for 7th question again
 again changing
+
+for stashing
